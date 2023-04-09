@@ -38,7 +38,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-dom", "virtual:c6015cd8683ddc75c4f7a241d9cb8127ef02557135c0d0809822800442345c6039eb890ced68223e69508b50f17e37600f12618efffa48fb19a5a5fd4b015404#npm:18.2.0"],\
             ["react-router-dom", "virtual:c6015cd8683ddc75c4f7a241d9cb8127ef02557135c0d0809822800442345c6039eb890ced68223e69508b50f17e37600f12618efffa48fb19a5a5fd4b015404#npm:6.10.0"],\
             ["ts-loader", "virtual:c6015cd8683ddc75c4f7a241d9cb8127ef02557135c0d0809822800442345c6039eb890ced68223e69508b50f17e37600f12618efffa48fb19a5a5fd4b015404#npm:9.4.2"],\
-            ["typescript", "patch:typescript@npm%3A4.9.4#~builtin<compat/typescript>::version=4.9.4&hash=d73830"],\
+            ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=d73830"],\
             ["webpack", "virtual:c6015cd8683ddc75c4f7a241d9cb8127ef02557135c0d0809822800442345c6039eb890ced68223e69508b50f17e37600f12618efffa48fb19a5a5fd4b015404#npm:5.75.0"],\
             ["webpack-cli", "virtual:c6015cd8683ddc75c4f7a241d9cb8127ef02557135c0d0809822800442345c6039eb890ced68223e69508b50f17e37600f12618efffa48fb19a5a5fd4b015404#npm:5.0.1"],\
             ["webpack-dev-server", "virtual:c6015cd8683ddc75c4f7a241d9cb8127ef02557135c0d0809822800442345c6039eb890ced68223e69508b50f17e37600f12618efffa48fb19a5a5fd4b015404#npm:4.11.1"]\
@@ -3060,7 +3060,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-dom", "virtual:c6015cd8683ddc75c4f7a241d9cb8127ef02557135c0d0809822800442345c6039eb890ced68223e69508b50f17e37600f12618efffa48fb19a5a5fd4b015404#npm:18.2.0"],\
             ["react-router-dom", "virtual:c6015cd8683ddc75c4f7a241d9cb8127ef02557135c0d0809822800442345c6039eb890ced68223e69508b50f17e37600f12618efffa48fb19a5a5fd4b015404#npm:6.10.0"],\
             ["ts-loader", "virtual:c6015cd8683ddc75c4f7a241d9cb8127ef02557135c0d0809822800442345c6039eb890ced68223e69508b50f17e37600f12618efffa48fb19a5a5fd4b015404#npm:9.4.2"],\
-            ["typescript", "patch:typescript@npm%3A4.9.4#~builtin<compat/typescript>::version=4.9.4&hash=d73830"],\
+            ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=d73830"],\
             ["webpack", "virtual:c6015cd8683ddc75c4f7a241d9cb8127ef02557135c0d0809822800442345c6039eb890ced68223e69508b50f17e37600f12618efffa48fb19a5a5fd4b015404#npm:5.75.0"],\
             ["webpack-cli", "virtual:c6015cd8683ddc75c4f7a241d9cb8127ef02557135c0d0809822800442345c6039eb890ced68223e69508b50f17e37600f12618efffa48fb19a5a5fd4b015404#npm:5.0.1"],\
             ["webpack-dev-server", "virtual:c6015cd8683ddc75c4f7a241d9cb8127ef02557135c0d0809822800442345c6039eb890ced68223e69508b50f17e37600f12618efffa48fb19a5a5fd4b015404#npm:4.11.1"]\
@@ -4327,7 +4327,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["enhanced-resolve", "npm:5.12.0"],\
             ["micromatch", "npm:4.0.5"],\
             ["semver", "npm:7.3.8"],\
-            ["typescript", "patch:typescript@npm%3A4.9.4#~builtin<compat/typescript>::version=4.9.4&hash=d73830"],\
+            ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=d73830"],\
             ["webpack", "virtual:c6015cd8683ddc75c4f7a241d9cb8127ef02557135c0d0809822800442345c6039eb890ced68223e69508b50f17e37600f12618efffa48fb19a5a5fd4b015404#npm:5.75.0"]\
           ],\
           "packagePeers": [\
@@ -4360,10 +4360,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["typescript", [\
-        ["patch:typescript@npm%3A4.9.4#~builtin<compat/typescript>::version=4.9.4&hash=d73830", {\
-          "packageLocation": "./.yarn/cache/typescript-patch-b74a6ef84c-37f6e2c3c5.zip/node_modules/typescript/",\
+        ["patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=d73830", {\
+          "packageLocation": "./.yarn/cache/typescript-patch-6832550af0-6a1fe9a77b.zip/node_modules/typescript/",\
           "packageDependencies": [\
-            ["typescript", "patch:typescript@npm%3A4.9.4#~builtin<compat/typescript>::version=4.9.4&hash=d73830"]\
+            ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=d73830"]\
           ],\
           "linkType": "HARD"\
         }]\
